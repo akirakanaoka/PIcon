@@ -10,6 +10,12 @@
 - 18:00くらいから
 - Zoomミーティング
     - Zoomのアドレス等の情報は金岡まで
+
+## 資料など
+- [伊藤研究室への配属志望学生のみなさんへ](http://itolab.is.ocha.ac.jp/~itot/message/itolabrecruit2020.html)
+    - お茶の水女子大 伊藤先生
+- [学生30人に教員1人の研究室運営について（2017-2019）](http://nkmr-lab.org/docs/management2017-2019.html)
+    - 明治大学 中村先生
     
 ## 管理運営
 金岡晃（東邦大）や何人かで適当に運営してます
